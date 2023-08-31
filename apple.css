@@ -1,0 +1,58 @@
+body{
+    font-size: 10px; height: 100;background-position: center 50%;background-color: #e8e8ed66
+    ;
+}
+html{
+    font-size: 17px; line-height: 35px;
+}
+*{
+    font-family: 'Open Sans', sans-serif;
+;text-align: center;font-size: 2rem;
+    
+
+}
+.note{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#CD{
+    height: 250; width: 1000PX;object-fit: cover;text-align: center; 
+
+}
+#DC{
+    height: 200px; width: 500px;
+}
+#DF{
+    height: 250px; width: 1000px;
+}
+#main{
+    text-align: left;
+}
+span{
+    margin-right: 10px;
+}
+#col{
+    color:#0071e3;
+}
+#cole{
+    color:#0071e3
+}
+#colee{
+    color:#0071e3;
+}
+#coli{
+    color:#0071e3
+}
+#colir{
+    color:#0071e3; 
+}
+h1{
+    font-family: 'Caveat', cursive;
+font-family: 'Crimson Text', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Noto Sans Multani', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Unna', serif;font-size: 1em;
+}
